@@ -1,8 +1,12 @@
-# stylish
+# Flutter Shop App UI (Tutorial)
+    - [Youtube](https://youtu.be/Q67qNgSVVpA)
+    - [Github](https://github.com/abuanwar072/Flutter-Shop-UI-Kit)
 
-A new Flutter project.
+# Screeen
+ - ![Home Page](https://github.com/thanhphat219/Flutter-Shop-UI-Kit/blob/main/Picture_1.png)
+ - ![Product Page](https://github.com/thanhphat219/Flutter-Shop-UI-Kit/blob/main/Picture_2.png)
 
-## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
